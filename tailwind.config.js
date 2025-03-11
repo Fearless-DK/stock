@@ -16,7 +16,7 @@ module.exports = {
         'grey-custom':'#999999',
         'blueheader': '#457b9d',
         // 'blue-custom': 'rgb(70, 130, 180)',
-        // 'lightblue-custom' :'#e1ecf2' ,
+        // 'lightblue-custom dondk' :'#e1ecf2' ,
       },
     },
   },
