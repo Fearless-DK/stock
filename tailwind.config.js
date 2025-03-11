@@ -24,6 +24,6 @@ module.exports = {
     require('flowbite/plugin')({
       charts: true,
     }),
-    // ... other plugins
+    // ... other hjjhjplugins
   ],
 };
